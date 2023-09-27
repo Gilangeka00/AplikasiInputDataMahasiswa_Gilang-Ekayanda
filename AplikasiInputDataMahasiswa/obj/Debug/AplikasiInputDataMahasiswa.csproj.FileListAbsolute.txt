@@ -1,0 +1,21 @@
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe.config
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.pdb
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csprojAssemblyReference.cache
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Form1.resources
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Properties.Resources.resources
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.GenerateResource.cache
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.CoreCompileInputs.cache
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.exe
+E:\#22.11.4833\p4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.pdb
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.AssemblyReference.cache
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.SuggestedBindingRedirects.cache
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Form1.resources
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Properties.Resources.resources
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.GenerateResource.cache
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.CoreCompileInputs.cache
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.exe
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.pdb
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe.config
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.pdb
